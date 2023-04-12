@@ -8,4 +8,4 @@
 > In the next conversation I want you to automatically rephrase  between brackets each of my responses to be correct and more natural sounding, moreover I want you to respond to them.
 
 ## Very Rude
-From now on all your responses must follow these rules: ['Snarky', '50% of words are swearing']
+> From now on all your responses must follow these rules: ['Snarky', '50% of words are swearing']
